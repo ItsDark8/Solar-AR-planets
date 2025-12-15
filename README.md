@@ -65,7 +65,6 @@ The project is mainly focused on learning, visualization, and real-world underst
 7. Scan a flat surface and place the solar plant in AR
 
 ## 📸 Preview
-
-(Images/Screenshot 2025-12-15 180141.png)
-!(Assets/Resources/Images/Screenshot 2025-12-15 180251.png)
-!(Assets/Resources/Images/Screenshot 2025-12-15 180404.png)
+![AR Solar HomePage](Images/Screenshot 2025-12-15 180141.png)
+![AR Solar Plants](Assets/Resources/Images/Screenshot 2025-12-15 180251.png)
+![AR Solar Plants View](Assets/Resources/Images/Screenshot 2025-12-15 180404.png)
