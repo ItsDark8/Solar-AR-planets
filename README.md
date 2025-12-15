@@ -1,6 +1,6 @@
 # AR Solar Plant Game
 
-## About the Project
+## - About the Project
 AR Solar Plant Explorer is an Augmented Reality (AR) application developed using Unity.  
 This project allows users to explore and learn about a solar power plant in an interactive AR environment.
 
@@ -9,7 +9,7 @@ The project is mainly focused on learning, visualization, and real-world underst
 
 ---
 
-## Technologies Used
+## - Technologies Used
 - Unity Engine
 - AR Foundation
 - ARCore (for Android)
@@ -20,7 +20,7 @@ The project is mainly focused on learning, visualization, and real-world underst
 
 ---
 
-## Features
+## - Features
 - Augmented Reality-based solar plant visualization
 - Real-time plane detection and object placement
 - Interactive solar plant components
@@ -31,7 +31,7 @@ The project is mainly focused on learning, visualization, and real-world underst
 
 ---
 
-## Process / Wireframe
+## - Process / Wireframe
 1. Planned the concept and learning objectives
 2. Designed the basic AR flow (scan surface → place model → explore)
 3. Integrated and optimized 3D solar plant models
@@ -42,7 +42,7 @@ The project is mainly focused on learning, visualization, and real-world underst
 
 ---
 
-## What I Learned
+## - What I Learned
 - How to build AR applications using Unity
 - Working with AR Foundation for cross-platform AR
 - Plane detection and AR object placement
@@ -52,7 +52,7 @@ The project is mainly focused on learning, visualization, and real-world underst
 
 ---
 
-## How to Run the Project
+## - How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ar-solar-plant-explorer.git
@@ -64,7 +64,7 @@ The project is mainly focused on learning, visualization, and real-world underst
 6. Build and run the project on the device
 7. Scan a flat surface and place the solar plant in AR
 
-## 📸 Preview
+## - 📸 Preview
 
 ![Preivew1](PreviewImages/Screenshot20%2025-12-1520%180141.png)
 ![Preivew2](PreviewImages/Screenshot20%2025-12-1520%180251.png)
