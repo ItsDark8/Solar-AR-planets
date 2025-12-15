@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home-Screen.unity
+    guid: c7ce291c8c4b2f44fb8554923378fc06
+  - enabled: 1
+    path: Assets/Scenes/Erath.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: 0c99963b009a42d4d94cef8651b81d3a
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 0a9b9ab3fd0adff4ca7d39b542bb1997
+  - enabled: 1
+    path: Assets/Scenes/Mercury.unity
+    guid: 5b9695c5d84ca7d49a07452e07770fa9
+  - enabled: 1
+    path: Assets/Scenes/Neptune.unity
+    guid: 8ddc83749d64ba24d91e0535fda773da
+  - enabled: 1
+    path: Assets/Scenes/Saturn.unity
+    guid: b93a5fe8e3d290d4882c56da7760bfe7
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: e3f798d8415a98d4e8c863544a7441b4
+  - enabled: 1
+    path: Assets/Scenes/Sun.unity
+    guid: f1241c196e5b0ef45bd7ff1ff1fea8fd
+  - enabled: 1
+    path: Assets/Scenes/Uranus.unity
+    guid: 7024286560f59f140996c5d620df08fb
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: 0baba43f0735f7d4ba48f04a46aa218e
+  - enabled: 1
+    path: Assets/Scenes/Planet-List.unity
+    guid: 227d9672e0f4c1943b8766981ae1125c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4b5a4b2cfe389364e83a82f7784bd324, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1ac699c8feab3cc4e913859cdc047dd7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 113de62e2d685464b855ae7e9625d694, type: 2}
+  m_UseUCBPForAssetBundles: 0
