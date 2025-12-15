@@ -1,113 +1,68 @@
-🌞 AR Solar Plant Explorer
-About the Project
+# AR Solar Plant Explorer
 
-AR Solar Plant Explorer is an Augmented Reality (AR) application developed using Unity that allows users to explore and understand the working of a solar power plant in an immersive AR environment.
-The project is designed for educational purposes, enabling users to visualize solar plant components in real scale, interact with them, and learn how solar energy is generated and converted into usable electricity.
+## About the Project
+AR Solar Plant Explorer is an Augmented Reality (AR) application developed using Unity.  
+This project allows users to explore and learn about a solar power plant in an interactive AR environment.
 
-Users can place the solar plant in their real-world environment using their mobile device and explore different parts of the system with informative AR interactions.
+Users can place the solar plant model in the real world using their mobile device and understand how solar energy is generated and converted into electricity.  
+The project is mainly focused on learning, visualization, and real-world understanding of renewable energy systems.
 
-Technologies Used
+---
 
-Unity Engine
+## Technologies Used
+- Unity Engine
+- AR Foundation
+- ARCore (for Android)
+- ARKit (for iOS)
+- C#
+- Unity XR Tools
+- 3D Models
 
-AR Foundation
+---
 
-ARCore (Android) / ARKit (iOS)
+## Features
+- Augmented Reality-based solar plant visualization
+- Real-time plane detection and object placement
+- Interactive solar plant components
+- Educational information for each component
+- Real-scale AR model placement
+- Smooth and user-friendly AR experience
+- Mobile device support
 
-C#
+---
 
-3D Modeling (Blender / other tools if used)
+## Process / Wireframe
+1. Planned the concept and learning objectives
+2. Designed the basic AR flow (scan surface → place model → explore)
+3. Integrated and optimized 3D solar plant models
+4. Implemented AR features using AR Foundation
+5. Added user interaction and UI elements
+6. Tested the application on real devices
+7. Optimized performance for mobile platforms
 
-Unity XR Toolkit
+---
 
-Mobile Platform (Android / iOS)
+## What I Learned
+- How to build AR applications using Unity
+- Working with AR Foundation for cross-platform AR
+- Plane detection and AR object placement
+- Optimizing 3D models for mobile AR
+- Creating educational AR experiences
+- Improved understanding of Unity and C#
 
-Features
+---
 
-📱 Real-time Augmented Reality visualization
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ar-solar-plant-explorer.git
 
-☀️ Interactive Solar Plant Model
-
-🔍 Component-wise exploration (Solar Panels, Inverter, Grid, etc.)
-
-📐 Real-scale placement in the real world
-
-🎯 User-friendly AR interaction and navigation
-
-📘 Educational content for learning solar energy concepts
-
-⚡ Smooth performance optimized for mobile devices
-
-Process / Wireframe
-
-Concept Planning
-
-Defined learning objectives and AR interaction flow
-
-Researched solar plant components and functionality
-
-Wireframe & Layout
-
-Basic AR scene layout
-
-User interaction flow (scan → place → explore)
-
-3D Model Integration
-
-Imported and optimized solar plant 3D models
-
-Adjusted scale and orientation for AR placement
-
-AR Implementation
-
-Plane detection and object placement using AR Foundation
-
-Gesture controls for rotate, scale, and move
-
-Interaction & UI
-
-Interactive elements with information panels
-
-UI prompts for AR guidance
-
-Testing & Optimization
-
-Tested on real devices
-
-Performance and stability improvements
-
-What I Learned
-
-Working with Unity AR Foundation for cross-platform AR
-
-Implementing plane detection and object placement
-
-Optimizing 3D assets for mobile AR performance
-
-Designing user-friendly educational AR experiences
-
-Handling real-world scale and spatial alignment in AR
-
-Improving problem-solving skills in Unity and C#
-
-How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/your-username/ar-solar-plant.git
-
-
-Open the project in Unity Hub
-
-Use a compatible Unity version (recommended: Unity 2021 LTS or above)
-
-Ensure AR Foundation, ARCore XR Plugin, and ARKit XR Plugin are installed
-
-Connect a supported Android or iOS device
-
-Build and run the project on the device
-
-Scan a flat surface and place the solar plant in AR
+2. Open the project in Unity Hub
+3. Use a compatible Unity version (recommended: Unity 2021 LTS or above)
+4. Ensure AR Foundation, ARCore XR Plugin, and ARKit XR Plugin are installed
+5. Connect a supported Android or iOS device
+6. Build and run the project on the device
+7. Scan a flat surface and place the solar plant in AR
 
 Preview
 📸 Screenshots / Demo
