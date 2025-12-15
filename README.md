@@ -66,6 +66,6 @@ The project is mainly focused on learning, visualization, and real-world underst
 
 ## 📸 Preview
 
-![AR Solar HomePage](PreviewImages/Screenshot20%2025-12-1520%180141.png)
-![AR Solar Plants](PreviewImages/Screenshot20%2025-12-1520%180251.png)
-![AR Solar Plants View](PreviewImages/Screenshot20%2025-12-1520%180404.png)
+![Preivew1](PreviewImages/Screenshot20%2025-12-1520%180141.png)
+![Preivew2](PreviewImages/Screenshot20%2025-12-1520%180251.png)
+![Preivew3](PreviewImages/Screenshot20%2025-12-1520%180404.png)
